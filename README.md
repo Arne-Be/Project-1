@@ -1,2 +1,2 @@
 # Project-1
-Erster Versuch an einer Web-App. 
+First try for a web-app.
